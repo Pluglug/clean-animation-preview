@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Playback Options",
+    "name": "Clean Animation Preview",
     "author": "Pluglug",
     "version": (0, 1, 0),
     "blender": (4, 2, 0),
