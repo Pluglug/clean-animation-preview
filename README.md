@@ -2,6 +2,8 @@
 
 A simple Blender addon that automatically hides viewport overlays during animation playback.
 
+![Image](https://github.com/user-attachments/assets/de67cc29-b305-492f-99d0-1f34b427bddb)
+
 ## Features
 
 - Automatically disables viewport overlays and gizmos when you play an animation
